@@ -24,10 +24,10 @@ export default function Home(){
       <S.Port>
         <h2>Meu Projetos</h2>
         <S.MyP>
-        <a target='_blank' rel='noreferrer' href='https://portflownv.netlify.app'>
+        <a target='_blank' rel='noreferrer' href='https://calcwnv.netlify.app''>
         <img src={Calc} alt='Pagina Calc'/>
         </a>
-        <a target='_blank' rel='noreferrer' href='https://calcwnv.netlify.app'>
+        <a target='_blank' rel='noreferrer' href='https://portflownv.netlify.app''>
         <img src={Portflow} alt='Pagina Portflow'/>
         </a>
         </S.MyP>
